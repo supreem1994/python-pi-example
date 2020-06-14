@@ -1,1 +1,4 @@
-print("hello supreem")
+def main(msg):
+    print(msg)
+main("Hello People")
+
